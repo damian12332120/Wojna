@@ -1,2 +1,2 @@
 # Wojna
-Gra karciana wojna 
+Gra karciana wojna gotowa wersja 1.0
